@@ -1,0 +1,6 @@
+var str1 = "Javascript World";
+var subStr = str1.substr(0, 10);
+document.write("Substring é: " + subStr);
+
+/* Para aparecer no terminal
+console.log("Substring é: " + subStr);*/
