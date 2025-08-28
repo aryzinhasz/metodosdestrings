@@ -1,0 +1,9 @@
+var str1 = "   Hello World   ";
+var trimmedString = str1.trim();
+document.write("String original: '" + str1 + "'<br>");
+document.write("String após trim: '" + trimmedString + "'");
+
+/* Para aparecer no terminal
+console.log("String original: '" + str1 + "'");
+console.log("String após trim: '" + trimmedString + "'");
+*/
