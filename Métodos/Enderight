@@ -1,0 +1,6 @@
+var str1 = "Hello word";
+var trimmedEnd = str1.trimEnd();
+var trimmedRight = str1.trimRight();
+console.log("Após trim: " + trimmedEnd);
+
+//console.log("<br>Após trim: " + trimmedRight);
