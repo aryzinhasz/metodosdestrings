@@ -1,0 +1,12 @@
+var str = "Javascript world. Welcome to WSA";
+var splitStr = str.split(" ");
+/*document.write("Array de strings: " + splitStr);*/
+
+/* Para aparecer no terminal*/
+console.log("Array de strings: " + splitStr);
+
+var splitLimit = str.split(" ", 3);
+/*document.write("Array de strings: " + splitLimit);*/
+
+/*Para aparecer no terminal*/
+console.log("Array de strings: " + splitLimit);
