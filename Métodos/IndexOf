@@ -1,0 +1,6 @@
+var str1 = "JavaScript World";
+var indexStr = str1.indexOf("World");
+document.write("Índice de 'World': " + indexStr);
+
+/* Para aparecer no terminal
+console.log("Índice de 'World': " + indexStr);*/
