@@ -1,0 +1,3 @@
+var str1 = "JavaScript World! Welcome to World";
+var lastIndex = str1.lastIndexOf("World");
+console.log("Último índice de 'World': " + lastIndex);
