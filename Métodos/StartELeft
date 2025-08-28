@@ -1,0 +1,6 @@
+var str1 = "Hello word";
+var trimmedStart = str1.trimStart();
+var trimmedLeft = str1.trimLeft();
+console.log("Após trim: " + trimmedStart);
+
+//console.log("<br>Após trim: " + trimmedLeft);
