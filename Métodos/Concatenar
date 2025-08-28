@@ -1,0 +1,7 @@
+var str1 = "Hello word";
+var str2 = "Welcome";
+var concatString = str1.concat(" ", str2, " ", "to WSA");
+document.write("Concatenação da string: " + concatString);
+
+/* Para aparecer no terminal
+console.log("Concatenação da string: " + concatString);*/
