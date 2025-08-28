@@ -1,0 +1,4 @@
+var str = "Ser ou não ser, eis a questão.";
+console.log(str.includes("Ser"));
+console.log(str.includes("questão", 0));
+console.log(str.includes("inexistente"));
