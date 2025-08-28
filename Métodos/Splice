@@ -1,0 +1,6 @@
+var str = "Javascript world";
+var slicedStr = str.slice(1, 5);
+document.write("String cortada: " + slicedStr);
+
+/* Para aparecer no terminal
+console.log("String cortada: " + slicedStr);*/
